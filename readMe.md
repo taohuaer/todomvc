@@ -7,5 +7,7 @@
 - 删除所有已完成的任务
 - All,Active,Completed三种状态筛选
 - 双击编辑任务
+- 利用本地缓存再次打开页面时任务还存在
 
 ### 效果展示
+![](https://github.com/taohuaer/todomvc/blob/master/todomvc1.gif)
